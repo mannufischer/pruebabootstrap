@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+
+body {
+    font-family: 'Lato', sans-serif ;
+}
+
+
+.alturaNav {
+    height: 100px;
+}
+
+.colorBtn {
+    background-color: #6b3c3e;
+    color: white;
+    font-size: 1rem;
+}
+
+
