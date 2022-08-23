@@ -22,4 +22,9 @@ body {
     font-size: 1rem;
 }
 
-
+.fondoImg {
+    background-image: url("../img/logo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
